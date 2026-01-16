@@ -1,1 +1,7 @@
-# Cheleba Mobile Releases\n\nЭтот репозиторий содержит релизы приложения Cheleba Mobile.\n\n## Скачать последнюю версию\n\nСмотрите [Releases](../../releases) для загрузки APK.
+# Cheleba Mobile Releases
+
+Этот репозиторий содержит релизы приложения Cheleba Mobile.
+
+## Скачать последнюю версию
+
+Смотрите [Releases](../../releases) для загрузки APK.
